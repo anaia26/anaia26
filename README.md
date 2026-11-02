@@ -8,6 +8,8 @@ Soy estudiante de informática y me interesa la administración de sistemas, las
 
 Me gusta seguir aprendiendo, experimentar con nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.
 
+
+
 ## 🛠️ Tecnologías y herramientas
 
 🖥️ Sistemas operativos: Windows y Linux.
@@ -25,6 +27,7 @@ Me gusta seguir aprendiendo, experimentar con nuevas tecnologías y aplicar mis 
 🌐 CMS: Joomla!, WordPress, Moodle.
 
 🔧 Control de versiones: Git y GitHub.
+
 
 
 ## 🚀 Proyectos destacados
@@ -64,11 +67,13 @@ Este proyecto me permitió combinar la creación de contenido multimedia con el 
 Tecnologías: HTML5, CSS, CSS Flexbox y herramientas de grabación y edición de audio.
 
 
+
 ## 🧩 Un poco más sobre mí
 
 Fuera del ámbito de la informática, me apasiona el speedcubing. Participo en competiciones de cubos de Rubik por toda España y disfruto aprendiendo nuevos métodos y mejorando mis tiempos.
 
 Este deporte me ha ayudado a desarrollar la constancia, la concentración y la resolución de problemas, habilidades que también considero importantes en el mundo tecnológico.
+
 
 
 ## 🎯 Objetivos
