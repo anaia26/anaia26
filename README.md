@@ -4,7 +4,7 @@
 
 ## ¡Bienvenido/a a mi perfil de GitHub!
 
-Soy estudiante de informática y me interesa la administración de sistemas, las redes, las bases de datos y el desarrollo de proyectos tecnológicos. Actualmente curso 2.º de ASIR, después de completar los ciclos de Sistemas Microinformáticos y Redes (SMR) y Desarrollo de Aplicaciones Web (DAW).
+Soy estudiante de informática y me interesa la administración de sistemas, las redes, las bases de datos y el desarrollo de proyectos tecnológicos. Actualmente curso 2.º de ASIR en CPR Liceo La Paz (A Coruña), después de completar los ciclos de Sistemas Microinformáticos y Redes (SMR) y Desarrollo de Aplicaciones Web (DAW).
 
 Me gusta seguir aprendiendo, experimentar con nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.
 
@@ -20,7 +20,7 @@ Me gusta seguir aprendiendo, experimentar con nuevas tecnologías y aplicar mis 
 
 🗄️ Bases de datos: SQL y MySQL.
 
-🐳 Virtualización: VirtualBox y Docker.
+🐳 Virtualización: VirtualBox, VMware y Docker.
 
 💻 Desarrollo web: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS.
 
