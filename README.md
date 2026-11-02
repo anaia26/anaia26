@@ -74,6 +74,8 @@ Fuera del ámbito de la informática, me apasiona el speedcubing. Participo en c
 
 Este deporte me ha ayudado a desarrollar la constancia, la concentración y la resolución de problemas, habilidades que también considero importantes en el mundo tecnológico.
 
+Mi perfil de la World Cube Association - WCA_ID [2022ARIA03](https://www.worldcubeassociation.org/persons/2022ARIA03)
+
 
 
 ## 🎯 Objetivos
